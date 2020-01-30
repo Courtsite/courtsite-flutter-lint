@@ -1,0 +1,7 @@
+name: flutter_linter_options
+description: Linter rules used in GetCar Flutter repositories.
+version: 0.0.1
+author: Azraei Yusof <azraei@courtsite.my>
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
