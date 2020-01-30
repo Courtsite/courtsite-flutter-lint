@@ -1,4 +1,4 @@
-name: flutter_linter_options
+name: getcar_flutter_lints
 description: Linter rules used in GetCar Flutter repositories.
 version: 0.0.1
 author: Azraei Yusof <azraei@courtsite.my>
